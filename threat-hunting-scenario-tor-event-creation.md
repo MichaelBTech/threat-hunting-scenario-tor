@@ -78,8 +78,3 @@ DeviceFileEvents
 - **Author Name**: Michael Bernal
 - **Author Contact**: https://www.linkedin.com/in/michael-bernal-54b153178/
 - **Date**: December 3rd, 2025
-
-## Validated By:
-- **Reviewer Name**: 
-- **Reviewer Contact**: 
-- **Validation Date**: 
